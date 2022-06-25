@@ -1,7 +1,7 @@
 ## Hi,I'm Hala 👋
 I am a junior full stack developer!
 
-- 👀 I’m looking for a role in the software development field..
+<!-- - 👀 I’m looking for a role in the software development field.. -->
 - 💬 Ask me about JavaScript or any MERN stack related stuff...
 - ⚡ Fun fact: I can design & build full stack web apps as well as real-structures!
 
